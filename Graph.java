@@ -1,5 +1,3 @@
-package hw3;
-
 import java.util.*;
 
 import org.checkerframework.checker.nullness.qual.*;
