@@ -1,5 +1,3 @@
-package hw8;
-
 import org.checkerframework.checker.nullness.qual.Nullable;
 
 /**
