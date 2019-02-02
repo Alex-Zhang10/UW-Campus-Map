@@ -1,5 +1,3 @@
-package hw8;
-
 import java.nio.charset.Charset;
 import java.util.*;
 
