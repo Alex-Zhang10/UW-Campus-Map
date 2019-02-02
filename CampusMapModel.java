@@ -1,5 +1,3 @@
-package hw8;
-
 import hw3.Graph;
 import org.checkerframework.checker.initialization.qual.UnknownInitialization;
 import org.checkerframework.checker.nullness.qual.*;
