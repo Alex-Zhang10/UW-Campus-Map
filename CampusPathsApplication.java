@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
  * Campus Map API's Spring application main class
  */
 @SpringBootApplication
-@ComponentScan(basePackages = {"hw8"})
+@ComponentScan
 public class CampusPathsApplication {
 
 	/**
