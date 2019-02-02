@@ -1,5 +1,3 @@
-package hw8;
-
 import com.opencsv.exceptions.CsvConstraintViolationException;
 import com.opencsv.exceptions.CsvDataTypeMismatchException;
 import java.io.BufferedReader;
